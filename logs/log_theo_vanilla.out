@@ -1,0 +1,50 @@
+mobile
+theopoula
+0
+epoch_number: 0, current_loss: 4.220698833465576, best_loss: 1000000000
+1
+2
+3
+4
+5
+epoch_number: 5, current_loss: 2.8397412300109863, best_loss: 3.097341537475586
+6
+7
+8
+9
+10
+epoch_number: 10, current_loss: 2.619237184524536, best_loss: 2.502563714981079
+11
+12
+13
+14
+15
+epoch_number: 15, current_loss: 2.456806182861328, best_loss: 2.3954460620880127
+16
+17
+18
+19
+20
+epoch_number: 20, current_loss: 2.367065668106079, best_loss: 2.2948288917541504
+21
+22
+23
+24
+25
+epoch_number: 25, current_loss: 2.3189029693603516, best_loss: 2.2948288917541504
+26
+27
+28
+29
+30
+epoch_number: 30, current_loss: 2.7590487003326416, best_loss: 2.2948288917541504
+31
+32
+33
+34
+35
+epoch_number: 35, current_loss: 2.738342046737671, best_loss: 2.253532886505127
+36
+37
+38
+39

@@ -1,0 +1,243 @@
+mobile
+adam
+0
+epoch_number: 0, current_loss: 4.201963901519775, best_loss: 1000000000
+1
+2
+3
+4
+5
+epoch_number: 5, current_loss: 2.8003666400909424, best_loss: 3.1257238388061523
+6
+7
+8
+9
+10
+epoch_number: 10, current_loss: 2.0929596424102783, best_loss: 2.4510128498077393
+11
+12
+13
+14
+15
+epoch_number: 15, current_loss: 1.8600804805755615, best_loss: 2.007979393005371
+16
+17
+18
+19
+20
+epoch_number: 20, current_loss: 1.8271561861038208, best_loss: 1.7553000450134277
+21
+22
+23
+24
+25
+epoch_number: 25, current_loss: 1.8496047258377075, best_loss: 1.6654987335205078
+26
+27
+28
+29
+30
+epoch_number: 30, current_loss: 1.6912459135055542, best_loss: 1.6654987335205078
+31
+32
+33
+34
+35
+epoch_number: 35, current_loss: 1.846914529800415, best_loss: 1.3187919855117798
+36
+37
+38
+39
+40
+epoch_number: 40, current_loss: 1.7374907732009888, best_loss: 1.3187919855117798
+41
+42
+43
+44
+45
+epoch_number: 45, current_loss: 1.6000021696090698, best_loss: 1.3187919855117798
+46
+47
+48
+49
+50
+epoch_number: 50, current_loss: 1.8699229955673218, best_loss: 1.3187919855117798
+51
+52
+53
+54
+55
+epoch_number: 55, current_loss: 1.536192536354065, best_loss: 1.20968759059906
+56
+57
+58
+59
+60
+epoch_number: 60, current_loss: 1.5669015645980835, best_loss: 1.20968759059906
+61
+62
+63
+64
+65
+epoch_number: 65, current_loss: 1.6899666786193848, best_loss: 1.20968759059906
+66
+67
+68
+69
+70
+epoch_number: 70, current_loss: 1.366584300994873, best_loss: 1.20968759059906
+71
+72
+73
+74
+75
+epoch_number: 75, current_loss: 1.3210783004760742, best_loss: 1.20968759059906
+76
+77
+78
+79
+80
+epoch_number: 80, current_loss: 1.2479971647262573, best_loss: 1.20968759059906
+81
+82
+83
+84
+85
+epoch_number: 85, current_loss: 1.5873504877090454, best_loss: 1.20968759059906
+86
+87
+88
+89
+90
+epoch_number: 90, current_loss: 1.444547176361084, best_loss: 1.20968759059906
+91
+92
+93
+94
+95
+epoch_number: 95, current_loss: 1.5125572681427002, best_loss: 1.20968759059906
+96
+97
+98
+99
+100
+epoch_number: 100, current_loss: 1.59468674659729, best_loss: 1.20968759059906
+101
+102
+103
+104
+105
+epoch_number: 105, current_loss: 1.5313369035720825, best_loss: 1.20968759059906
+106
+107
+108
+109
+110
+epoch_number: 110, current_loss: 1.6130789518356323, best_loss: 1.20968759059906
+111
+112
+113
+114
+115
+epoch_number: 115, current_loss: 1.5016303062438965, best_loss: 1.20968759059906
+116
+117
+118
+119
+120
+epoch_number: 120, current_loss: 1.45042884349823, best_loss: 1.20968759059906
+121
+122
+123
+124
+125
+epoch_number: 125, current_loss: 1.2367827892303467, best_loss: 1.20968759059906
+126
+127
+128
+129
+130
+epoch_number: 130, current_loss: 1.2788923978805542, best_loss: 1.20968759059906
+131
+132
+133
+134
+135
+epoch_number: 135, current_loss: 1.0955092906951904, best_loss: 1.20968759059906
+136
+137
+138
+139
+140
+epoch_number: 140, current_loss: 1.558219313621521, best_loss: 1.0955092906951904
+141
+142
+143
+144
+145
+epoch_number: 145, current_loss: 1.5858322381973267, best_loss: 1.0955092906951904
+146
+147
+148
+149
+150
+epoch_number: 150, current_loss: 1.5672471523284912, best_loss: 1.0955092906951904
+151
+152
+153
+154
+155
+epoch_number: 155, current_loss: 1.9426703453063965, best_loss: 1.0955092906951904
+156
+157
+158
+159
+160
+epoch_number: 160, current_loss: 1.368245244026184, best_loss: 1.0955092906951904
+161
+162
+163
+164
+165
+epoch_number: 165, current_loss: 1.3166639804840088, best_loss: 1.0955092906951904
+166
+167
+168
+169
+170
+epoch_number: 170, current_loss: 1.325911521911621, best_loss: 1.0955092906951904
+171
+172
+173
+174
+175
+epoch_number: 175, current_loss: 1.499280333518982, best_loss: 1.0955092906951904
+176
+177
+178
+179
+180
+epoch_number: 180, current_loss: 1.732450246810913, best_loss: 1.0955092906951904
+181
+182
+183
+184
+185
+epoch_number: 185, current_loss: 1.418217420578003, best_loss: 1.0955092906951904
+186
+187
+188
+189
+190
+epoch_number: 190, current_loss: 1.752718210220337, best_loss: 1.0792237520217896
+191
+192
+193
+194
+195
+epoch_number: 195, current_loss: 1.5108866691589355, best_loss: 1.0792237520217896
+196
+197
+198
+199
+[tensor(4.2020, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(3.7035, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(3.6730, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(3.1600, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(3.1257, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.8004, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.6942, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.7695, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.4510, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.5896, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.0930, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.3629, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.0080, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.2485, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.1581, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8601, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.1149, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9366, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9489, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7553, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8272, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9980, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9604, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6655, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9674, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8496, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8403, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6958, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6994, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7335, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6912, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3206, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3188, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8879, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8909, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8469, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4904, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8014, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8495, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7617, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7375, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8564, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6548, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5621, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9177, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6000, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6772, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7289, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5937, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7982, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8699, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6438, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2097, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8052, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4775, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5362, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5870, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6489, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5675, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6310, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5669, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5932, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4695, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7530, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3169, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6900, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4362, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8405, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7925, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7387, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3666, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6081, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6451, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7708, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7582, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3211, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4740, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5135, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7249, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4340, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2480, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4924, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5423, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4557, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5879, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5874, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4644, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3660, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4918, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8558, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4445, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5711, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4061, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5621, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3409, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5126, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3589, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5265, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3005, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3725, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5947, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3853, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4885, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3688, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3522, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5313, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5313, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5648, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6884, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4807, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6131, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6317, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4984, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4786, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6524, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5016, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3934, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5869, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6467, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5555, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4504, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6338, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3810, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7494, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3821, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2368, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5279, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5038, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6340, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7410, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2789, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7042, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4438, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3154, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4633, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.0955, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6312, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.1949, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6090, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5800, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5582, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(2.0236, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3500, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4552, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3050, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5858, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5665, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4300, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5550, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3321, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5672, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7699, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2164, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6184, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4678, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.9427, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3765, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7278, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4635, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3347, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3682, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4587, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4345, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4673, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.1491, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3167, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3859, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3732, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.8205, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2606, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3259, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5628, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4471, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2883, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5033, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4993, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5089, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7556, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5959, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3858, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7325, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.1965, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4052, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3859, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.1484, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4182, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4762, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.0792, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3584, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3832, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.7527, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.2300, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5599, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4213, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5651, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.5109, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4871, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.6772, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.4137, device='cuda:0', grad_fn=<NllLossBackward0>), tensor(1.3012, device='cuda:0', grad_fn=<NllLossBackward0>)]

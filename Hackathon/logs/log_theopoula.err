@@ -1,0 +1,5 @@
+/mnt/scratch/users/yx2022/projects/hakcathon/THEO_POULA/optimizers/Theopoula.py:46: UserWarning: This overload of add_ is deprecated:
+	add_(Number alpha, Tensor other)
+Consider using one of the following signatures instead:
+	add_(Tensor other, *, Number alpha) (Triggered internally at ../torch/csrc/utils/python_arg_parser.cpp:1578.)
+  grad.add_(group['weight_decay'], p.data)
